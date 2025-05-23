@@ -24,6 +24,14 @@ A clickable prototype of the dashboard was created using Lovable to showcase the
 
 ---
 
+## 🎥 Walkthrough Video (Loom)
+
+Watch a full walkthrough of the project, including the product strategy, documentation structure, and feature breakdown.
+
+👉 [Watch the Loom Demo](https://www.loom.com/share/c4140f3c54f449eab0dce306ba9afb85)
+
+---
+
 ## 📘 Table of Contents
 
 ### 🚀 1. [Product Vision & Strategy](./docs/01_PRODUCT_VISION_AND_STRATEGY.md)
