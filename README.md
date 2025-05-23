@@ -14,6 +14,13 @@ This document is your comprehensive resource throughout the product's lifecycle�
 
 Together, let's explore the transformative potential of our AI-Powered Dashboard and uncover how it can revolutionize your Instagram strategy.
 
+---
+
+## 🔍 Live Prototype
+
+A clickable prototype of the dashboard was created using Lovable to showcase the layout, interactions, and overall structure of the final product.
+
+👉 [View Prototype](https://preview--empathy-growth-engine.lovable.app/)
 
 ---
 
